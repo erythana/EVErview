@@ -5,7 +5,7 @@ EVErview is an Tool for managing your account- and character settings:
   - Copies the Window-Layout from one character to another one.
   
 # How to run the tool
-You can either compile it on your own with the project files in this GitHub Repository or you download the ZIP-Archive from https://drive.google.com/open?id=1UfZ0Ua7xoVy-TsibclC5oatGIHl36PKQ
+You can either compile it on your own with the project files in this GitHub Repository or you download the ZIP-Archive from https://drive.google.com/open?id=1UfZ0Ua7xoVy-TsibclC5oatGIHl36PKQ  
 Make sure the Newtonsoft-JSON DLL is located in the same folder as EVErview.exe.
   - You can run it by double-clicking "EVErview.exe"
 
