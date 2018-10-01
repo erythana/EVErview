@@ -2,7 +2,7 @@
 
 EVErview is an Tool for managing your account- and character settings:
   - Allow you to copy the settings from Account 1 to whatever many accounts you have (unfortunately, you have to select them manually).
-  - Copiy the window layout from one character to another.
+  - Copy the window layout from one character to another.
   
 # How to run the tool
 You can either compile it on your own with the project files in this GitHub Repository or you download the ZIP-Archive from https://drive.google.com/open?id=1UfZ0Ua7xoVy-TsibclC5oatGIHl36PKQ  
