@@ -19,7 +19,7 @@ If something doesn't work out for you, feel free to message me!
   - There may be a problem with different Setting-Directories, usually these are located at %LocalAppData%\CCP\EVE  
   If this directory is missing/empty this tool won't work. Message me so i can take a look at it and fix it.
   
-  Also, if you want some sort of new functionality in this tool just write me a message. I can't guarantee for anything but i'll try my best if i find some spare time (i not only garbage in eve but also with code. No insults. Don't gank me).
+  Also, if you want some sort of new functionality in this tool just write me a message. I can't guarantee for anything but i'll try my best if i find some spare time (im not only garbage in eve but also with code. No insults. Don't gank me).
 
 # Support
 - As all of us, i hate doing PvE and other ISK generating stuff. For i am also an bad pirate i have to live of tips.
