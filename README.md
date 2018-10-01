@@ -2,7 +2,7 @@
 
 
 EVErview is an Tool for managing your account- and character settings:
-  - Allow you to copy the settings from Account 1 to Account 235 (unfortunately, you have to select them manually)
+  - Allow you to copy the settings from Account 1 to whatever many accounts you have (unfortunately, you have to select them manually)
   - Copies the Window-Layout from one character to another one.
   
 # How to run the tool
