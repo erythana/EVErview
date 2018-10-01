@@ -17,7 +17,7 @@ If something doesn't work out for you, feel free to message me!
   - An better way to copy account settings. I didn't find a way so far to "convert" the Account-Number from your Settings-Directory to the Account-Name (as seen in the launcher).
   
 # Bugs/Features
-  - There may be a problem with different Setting-Directories, usually these are located at %LocalAppData%\CCP\EVE
+  - There may be a problem with different Setting-Directories, usually these are located at %LocalAppData%\CCP\EVE  
   If this directory is missing/empty this tool won't work. Message me so i can take a look at it and fix it.
 
 # Support
